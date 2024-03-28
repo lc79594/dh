@@ -6,7 +6,7 @@
     - title: YouTube
       logo: 
       url: https://www.youtube.com
-      description: 一个专注于软件安装，科学上网教学的频道！
+      description: 知名视频网站！
     - title: 馨妹读书
       qrcode: 
       logo:  
@@ -16,6 +16,9 @@
       qrcode: 
       logo: 
       url: https://dy.686959.xyz/
+    - title: 馨妹影视二站
+      logo: 
+      url: https://79594.free.hr/
       description: 馨妹的私人影院
     - title: 虚拟信用卡
       url: https://gpt.fomepay.com/#/pages/login/index?d=UE9260
@@ -25,84 +28,61 @@
       logo:
       url: https://www.asinx.io/#/pages/member/register/register?code=9h9oxmkt/
       description: usdt套现，国内拼多多消费，支付宝消费
-    - title: IOS (苹果) ID 礼品卡/兑换码
-      logo:  images/logos/5eac6d69dc12980944f98.jpg
-      url: https://app.xintaifree.com?from=5431/
-      description: shadowrocket 小火箭 | quantumult x 圈x | 礼品卡/兑换码 | ChatGPT plus 应有尽有！⏰客服在线时间08:00-23:00
-    - title: Telegram
-      logo: 
-      url: https://t.me/kjgxZY/
-      description: 科技共享资源频道
-    - title: Telegram群组
-      url: https://t.me/+qf_DtRZ90ys2ZDBl/
-      description: 沟通交流，资源分享
     - title: 接码平台
       logo:  
       url: https://sms-activate.org/?ref=4312619/
       description: 购买各国电话号码，用于在社交网络、聊天工具和其他服务中注册。
-    - title: Base64编码解码
-      url: https://www.matools.com/base64/
-      description: 将utf-8能表示的所有字符进行Base64编码加密解密
-    - title: OneDrive直链
-      url: https://onedrive.gimhoy.com/
-      description: OneDrive直链获取工具
     - title: UUID生成
       url: https://1024tools.com/uuid/
       description: UUID在线生成
-    
-
-- taxonomy: 社区咨询
+    - title: cloudflare
+      qrcode: 
+      logo: 
+      url: https://dash.cloudflare.com/
+      description: 保护您的网站、API 和Internet 应用程序。
+- taxonomy: AI应用
   icon: fa-regular fa-newspaper
   links: 
-    - title: 雷锋网
-      logo: images/logos/leiphone.png
-      url: https://www.leiphone.com/
-      description: 人工智能和智能硬件领域的互联网科技媒体
-    - title: 36kr
-      logo: images/logos/36kr.png
-      url: https://36kr.com/
-      description: 创业资讯、科技新闻
-    - title: 数英网
-      logo: images/logos/digitaling.png
-      url: https://www.digitaling.com/
-      description: 数字媒体及职业招聘网站
-    - title: 猎云网
-      logo: images/logos/lieyunwang.png
-      url: https://www.lieyunwang.com/
-      description: 互联网创业项目推荐和创业创新资讯
-    - title: 人人都是产品经理
-      logo: images/logos/woshipm.png
-      url: http://www.woshipm.com/
-      description: 产品经理、产品爱好者学习交流平台
-    - title: 互联网早读课
-      logo: images/logos/zaodula.png
-      url: https://www.zaodula.com/
-      description: 互联网行业深度阅读与学习平台
-    - title: 产品壹佰 
-      logo: images/logos/chanpin100.png
-      url: http://www.chanpin100.com/
-      description: 为产品经理爱好者提供最优质的产品资讯、原创内容和相关视频课程
-    - title: PMCAFF
-      logo: images/logos/pmcaff.png
-      url: http://www.pmcaff.com/
-      description: 中国第一产品经理人气组织，专注于研究互联网产品
-    - title: 爱运营
-      logo: images/logos/iyunying.png
-      url: http://www.iyunying.org/
-      description: 网站运营人员学习交流，专注于网站产品运营管理、淘宝运营。
-    - title: 鸟哥笔记
-      logo: images/logos/niaogebiji.png
-      url: http://www.niaogebiji.com/
-      description: 移动互联网第一干货平台
-    - title: 古田路9号
-      logo: images/logos/gtn9.png
-      url: http://www.gtn9.com/
-      description: 国内专业品牌创意平台
-    - title: 优阁网
-      logo: images/logos/uigreat.png
-      url: http://www.uigreat.com/
-      description: UI设计师学习交流社区
-    
+    - title:  AI图片清晰度增强
+      logo: 
+      url: https://magnific.ai/
+      description: 使用AI加强模糊照片的清晰度
+    - title: AI照片生成器
+      logo: 
+      url: https://imgcreator.zmo.ai/
+      description: 使用中文描述自动生成照片
+    - title: D-ID工作室
+      logo: 
+      url: https://studio.d-id.com/
+      description: 使用图片生成动态视频
+    - title: ChatGPT
+      logo: 
+      url: https://chat.openai.com/
+      description: 知名AI网站，需IP解锁。
+    - title: playground
+      logo: 
+      url: https://playground.com/
+      description: 使用英文描述自动生成图片
+    - title: claude3
+      logo: 
+      url: https://claude.ai/
+      description: 超越ChatGPT人工智能网站
+    - title: gemini 
+      logo: 
+      url: https://gemini.google.com/
+      description: 谷歌公司的人工智能平台
+    - title: pixverse
+      logo: 
+      url: https://app.pixverse.ai/login
+      description: 另一款AI图片生成网站
+    - title: 角色AI
+      logo: 
+      url: https://character.ai/
+      description: 提供各种行业角色的AI服务平台。
+    - title: photo-to-anime
+      logo: 
+      url: https://photo-to-anime.com/en
+        
 
 - taxonomy: 灵感采集
   icon: fa-regular fa-lightbulb
