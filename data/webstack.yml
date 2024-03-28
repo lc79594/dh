@@ -97,7 +97,7 @@
           logo: 
           url: https://secure.assrt.net/
           description: 电影字幕下载网站
-        - title: 爱卡机器人
+        - title: 爱看机器人
           logo: 
           url: https://v.ikanbot.com/
           description: 全网视频收集播放网站
@@ -109,11 +109,7 @@
           logo: 
           url: https://ddkanqiu.net/
           description: 全球实时体育直播平台
-        - title: 小众软件
-          logo: images/logos/appinn.png
-          url: https://faxian.appinn.com/
-          description: 在这里发现更多有趣的应用
-      
+        
     - term: 软件类
       links:
         - title: pkeytool
@@ -132,6 +128,10 @@
           logo: 
           url: https://ps.gitapp.cn/
           description: 在线PS编辑平台
+        - title: 小众软件
+          logo: images/logos/appinn.png
+          url: https://faxian.appinn.com/
+          description: 在这里发现更多有趣的应用
       
     - term: 游戏类
       links:
@@ -166,47 +166,31 @@
           logo: 
           url: https://vm.dogyun.com/
           description: 国内VPS提供平台
-        - title: Icon Archive
-          logo: images/logos/iconarchive.png
-          url: http://www.iconarchive.com/
-          description: Search 590,912 free icons
-        - title: FindIcons
-          logo: images/logos/FindIcons.png
-          url: https://findicons.com/
-          description: Search through 300,000 free icons
-        - title: IcoMoonApp
-          logo: images/logos/IcoMoonApp.png
-          url: https://icomoon.io/app/
-          description: Icon Font, SVG, PDF &amp; PNG Generator
-        - title: easyicon
-          logo: images/logos/easyicon.png
-          url: http://www.easyicon.net/
-          description: PNG、ICO、ICNS格式图标搜索、图标下载服务
-        - title: flaticon
-          logo: images/logos/flaticon.png
-          url: https://www.flaticon.com/
-          description: 634,000+ Free vector icons in SVG, PSD, PNG, EPS format or as ICON FONT.
-        - title: UICloud
-          logo: images/logos/UICloud.png
-          url: http://ui-cloud.com/
-          description: The largest user interface design database in the world.
-        - title: Material icons
-          logo: images/logos/Materialicons.png
-          url: https://material.io/icons/
-          description: Access over 900 material system icons, available in a variety of sizes and densities, and as a web font.
-        - title: Font Awesome Icon
-          logo: images/logos/fontawesomeicon.png
-          url: https://fontawesome.com/icons/
-          description: The complete set of 675 icons in Font Awesome
-        - title: ion icons
-          logo: images/logos/ionicons.png
-          url: http://ionicons.com/
-          description: The premium icon font for Ionic Framework.
-        - title: Simpleline Icons
-          logo: images/logos/simplelineicons.png
-          url: http://simplelineicons.com/
-          description: Simple line Icons pack
-      
+        - title: subreg
+          logo: 
+          url: https://subreg.cz/
+          description: 免费和低价域名注册网站
+        - title: namesilo
+          logo: 
+          url: https://www.namesilo.com/
+          description: 域名注册
+        - title: github
+          logo: 
+          url: https://github.com/
+          description: 活到老学到老，世界最大的开源代码分享基地。
+        - title: wireguard
+          logo: 
+          url: https://www.wireguard.com/
+          description: 永久免费的上网节点部署网站
+        - title: itdog
+          logo: 
+          url: https://www.itdog.cn/
+          description: 网络使用情况查询网站
+        - title: 优选IP
+          logo: 
+          url: https://stock.hostmonit.com/CloudFlareYes
+          description: 全球优选IP查询网站
+              
     - term: LOGO设计
       links:
         - title: Iconsfeed
