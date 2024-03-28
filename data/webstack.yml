@@ -5,18 +5,18 @@
   links: 
     - title: YouTube
       logo: 
-      url: https://www.youtube.com/channel/UCgV1t5fHFvAVPyprEWvuIzg/
+      url: https://www.youtube.com
       description: 一个专注于软件安装，科学上网教学的频道！
-    - title: 资源博客
-      qrcode: images/qrcodes/bk.png
-      logo:  images/logos/kjgxa999f-kjgx1fr3l-001.ico
-      url: https://kjgx668.blogspot.com/
-      description: 资源分享，详细图文教程。
-    - title: 环球巴士
+    - title: 馨妹读书
       qrcode: 
-      logo: images/logos/HQBS.png
-      url: https://universalbus.cn?s=gB8CJKmJdd
-      description: 流媒体影音账号合租平
+      logo:  
+      url: https://yd.686959.xyz/
+      description: 馨妹的私人书屋。
+    - title: 馨妹影视一站
+      qrcode: 
+      logo: 
+      url: https://dy.686959.xyz/
+      description: 馨妹的私人影院
     - title: 虚拟信用卡
       url: https://gpt.fomepay.com/#/pages/login/index?d=UE9260
       description: 支付宝、微信充值，海外消费。
