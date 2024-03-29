@@ -181,7 +181,7 @@
         - title: github
           logo: 
           url: https://github.com/
-          description: 活到老学到老，世界最大的开源代码分享基地。
+          description: 开源代码分享基地。
         - title: wireguard
           logo: 
           url: https://www.wireguard.com/
@@ -190,10 +190,14 @@
           logo: 
           url: https://www.itdog.cn/
           description: 网络使用情况查询网站
+        - title: IP查询
+          logo: 
+          url: https://ipchaxun.com/
+          description: IP查询网站，可反向搜索优先IP
         - title: 优选IP
           logo: 
           url: https://stock.hostmonit.com/CloudFlareYes
-          description: 全球优选IP查询网站
+          description: 自动分享优选IP的网站
               
     - term: LOGO设计
       links:
