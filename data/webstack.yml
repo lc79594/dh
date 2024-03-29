@@ -132,6 +132,10 @@
           logo: images/logos/appinn.png
           url: https://faxian.appinn.com/
           description: 在这里发现更多有趣的应用
+        - title: wireguard
+          logo: 
+          url: https://www.wireguard.com/install/
+          description: 免费的科学软件
       
     - term: 游戏类
       links:
@@ -146,7 +150,7 @@
         - title: cslbbs
           logo: 
           url: https://www.cslbbs.net/
-          description: 都市天际线权威论坛
+          description: 都市天际线2论坛
        
       
 - taxonomy: 建站
